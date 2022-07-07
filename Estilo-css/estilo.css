@@ -112,6 +112,7 @@ body{
     color: white;
 }
 #conteudo_do_site_home div{
+
 width: 100vw;
 height: 40vh;
 margin-left: auto;
@@ -205,4 +206,34 @@ footer a {
     color: white;
     text-decoration: none;
 
+}
+
+#formes{
+
+    margin-top: 40px;
+    align-items: center;
+    
+}
+input:hover{
+
+    border-color: aquamarine;
+
+}
+input{
+
+    background-color: white;
+    width: 400px;
+    height: 20px;
+    margin-top: 10px;
+
+
+}
+
+textarea{
+    margin-top: 10px;
+}
+
+#enviar{
+    width: 55px;
+    background-color: aquamarine;
 }
