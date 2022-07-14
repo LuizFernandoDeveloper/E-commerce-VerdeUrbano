@@ -13,7 +13,7 @@ Os dois sistemas estão fisicamente separados e são interligados por um sistema
 Esse sistema ja existe há 30 anos nos países asiáticos, Australia e nos EUA.
 </p>
 
-<img src="http://www.ecoeficientes.com.br/new/wp-content/uploads/2013/12/como-funciona-o-sistema-de-aquaponia.png" alt="Banana" />
+<img  src="https://us.123rf.com/450wm/wonderisland/wonderisland1310/wonderisland131000045/34998068-aquaponics-%EC%8B%9C%EC%8A%A4%ED%85%9C.jpg?ver=6" alt="Banana" />
 
 ## Tecnologias usadas no projeto :
 
