@@ -1,0 +1,72 @@
+#productsBanner{
+
+    width: 250px;
+    height: 300px;
+    border-radius: 30px;
+    background-color: black;
+    overflow: hidden;
+    border: solid  2px  #333333;  
+    text-align: center;
+    
+}
+
+#productsBanner:hover{
+
+    border-radius: 30px;
+    overflow: hidden;
+    border: solid  2px  rgb(21, 244,238);
+    filter: drop-shadow(0px 0px 10px rgb(21, 244,238));
+
+}
+
+#outdoorProducts{
+
+    width: 98%;
+    height: 50%;
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    border-radius: 25px;
+
+}
+
+#outdoorProducts img{
+
+    width: 100%;
+    height: 100%;
+}
+
+#productsBanner h3{
+
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+#productsBanner h4{
+    
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#carStyle{
+
+    background-repeat: no-repeat;
+    background-image: url("../../../assets/img/base-site/carrinho_simples/cariinho_simples.svg") ;
+    width: 50px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#carStyle:hover{
+
+    background-image: url("../../../assets/img/base-site/carrinho_correndo/carrinho_correndo.svg") ;
+    
+}

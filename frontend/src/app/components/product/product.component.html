@@ -1,0 +1,14 @@
+<div  *ngFor="let product of products" id="productsBanner">
+
+    <div id="outdoorProducts">
+
+        <img  [src]="vieweProduct" alt="{{product.name}}">
+
+    </div>
+
+    <h3>Especie: {{product.name}}</h3>
+    <h4>Preço por kg: R$ {{product.price}}</h4>
+   
+    <a href="" title="pageProduct"><div id="carStyle"></div></a>
+    
+</div>
