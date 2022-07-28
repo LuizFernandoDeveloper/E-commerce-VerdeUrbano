@@ -1,4 +1,4 @@
-# Projeto e-commerce-VerdeUrbano
+# Projeto E-commerce Verde Urbano
 
 ## Tecnologias Utilizadas
 
