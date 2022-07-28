@@ -10,6 +10,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor">
     <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 
 </div>
 <br>
@@ -24,7 +25,7 @@
 
   <h2> Esse é um projeto de um e-commerce que vendera produtos relacionados a aquaponia </h2><br>
 
-  - Estamos a desenvolver a pagina Home, no momento enfrento dificuldate de achar um design ideal.
+  - Estamos a desenvolver a pagina Home, no momento enfrento dificuldate de achar um design ideal. <br> (Todo o projeto está sendo desenvolvido do zero ate mesmo a arte do projeto. Estou fazendo a arte no Illustrator e outros software adobe)
   ![img](./imgReadme/index.png) 
    
   - Pagina que ficara todas as especies de peixes que a empresa tem a disposição para vender e pagina das hotaliças. No momento estou optando por esse design na pagina dos peixes e hortaliças.
